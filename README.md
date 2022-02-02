@@ -9,6 +9,7 @@ Topics included:
 4. Ordinal logistic regression
 5. Discriminant analysis
 6. MANOVA
-7. Exploratory factor analysis
-8. Confirmatory factor analysis
-9. Structural equation modeling
+7. Principal component analysis
+8. Exploratory factor analysis
+9. Confirmatory factor analysis
+10. Structural equation modeling
